@@ -8,7 +8,7 @@
 * pelaaja ohjaa teletappeja ja nuu-nuuta
 * tietokone ohjaa decepticoneja
 
-Decepticonit on palkkatuella (vastentahtoisesti) työskenteleviä kosmisia ohjaajia / lastenhoitajia tms. ryhmittäytyneet leikkikentälle ja yrittävät kantaa teletapit (sisätiloihin) päiväunille vaikka jotain mielenkiintoista on tapahtumassa (ulkona).  
+Decepticonit on palkkatuella (vastentahtoisesti) työskenteleviä kosmisia ohjaajia / lastenhoitajia. Decepticonit ovat ryhmittäytyneet ulos leikkikentälle ja yrittävät kantaa teletapit sisätiloihin päiväunille vaikka jotain mielenkiintoista on tapahtumassa ulkona.  
 
 **tiivitaavi**  
 ase: *käsilaukku*  
