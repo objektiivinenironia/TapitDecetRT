@@ -8,7 +8,7 @@
 * pelaaja ohjaa teletappeja ja nuu-nuuta
 * tietokone ohjaa decepticoneja
 
-Decepticonit on palkkatuella (vastentahtoisesti) työskenteleviä kosmisia ohjaajia / lastenhoitajia. Decepticonit ovat ryhmittäytyneet ulos leikkikentälle ja yrittävät kantaa teletapit sisätiloihin päiväunille vaikka jotain mielenkiintoista on tapahtumassa ulkona.  
+Decepticonit on määrätty ohjaamaan ja valvomaan toimintaa planeetalle jonka asukkaita Teletapit ovat. Decepticonit ovat ryhmittäytyneet ulos leikkikentälle ja yrittävät kantaa teletapit sisätiloihin (alukseen? asemalle?) vaikka jotain mielenkiintoista on tapahtumassa ulkona. (Mitä?)  
 
 **tiivitaavi**  
 ase: *käsilaukku*  
@@ -33,4 +33,9 @@ esim. jos nuu-nuu imuroi tappivanukasta, voi ampua vanukaskuplalla decepticonia.
 **Yhteishyökkäys**: *iso hali* muuttaa decepticonin 3-8 kaniiniksi.  
 
 ## To-Do
-Lähes kaikki.
+Toteutus. 
+
+## Pohdittavaa
+Mitä niin mielenkiintoista ulkona tapahtuu etteivät Teletapit halua mennä sisätiloihin päiväunille?
+Ehkä Decepticonien rikosrekisteriote ei kelpaa lasten kanssa työskentelyyn.
+
