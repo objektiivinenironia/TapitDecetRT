@@ -8,7 +8,7 @@
 * pelaaja ohjaa teletappeja ja nuu-nuuta
 * tietokone ohjaa decepticoneja
 
-Decepticonit on määrätty ohjaamaan ja valvomaan kesäleirin (?) toimintaa. Teletapit ovat . Decepticonit ovat ryhmittäytyneet ulos leikkikentälle ja yrittävät vangita tai estää Teletappeja karkaamasta?
+Decepticonit on määrätty ohjaamaan ja valvomaan kesäleirin (?) toimintaa. Teletapit ovat leirillä. Decepticonit ovat ryhmittäytyneet ulos leikkikentälle ja yrittävät vangita tai estää Teletappeja karkaamasta?
 
 **tiivitaavi**  
 ase: *käsilaukku*  
