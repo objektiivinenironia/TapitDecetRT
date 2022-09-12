@@ -4,7 +4,7 @@
 
 ## Real-Time (taktinen) peli
 
-* yksinpeli (1-4 co-op?)
+* yksinpeli tai 2-4 co-op
 * pelaaja ohjaa teletappeja ja nuu-nuuta
 * tietokone ohjaa decepticoneja
 
