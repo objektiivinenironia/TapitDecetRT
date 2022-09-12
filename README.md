@@ -8,7 +8,7 @@
 * pelaaja ohjaa teletappeja ja nuu-nuuta
 * tietokone ohjaa decepticoneja
 
-Decepticonit on määrätty ohjaamaan ja valvomaan toimintaa planeetalle jonka asukkaita Teletapit ovat. Decepticonit ovat ryhmittäytyneet ulos leikkikentälle ja yrittävät kantaa teletapit sisätiloihin (alukseen? asemalle?) vaikka jotain mielenkiintoista on tapahtumassa ulkona. (Mitä?)  
+Decepticonit on määrätty ohjaamaan ja valvomaan kesäleirin (?) toimintaa. Teletapit ovat . Decepticonit ovat ryhmittäytyneet ulos leikkikentälle ja yrittävät vangita tai estää Teletappeja karkaamasta?
 
 **tiivitaavi**  
 ase: *käsilaukku*  
@@ -38,4 +38,5 @@ Toteutus.
 ## Pohdittavaa
 Mitä niin mielenkiintoista ulkona tapahtuu etteivät Teletapit halua mennä sisätiloihin päiväunille?
 Ehkä Decepticonien rikosrekisteriote ei kelpaa lasten kanssa työskentelyyn.
-
+Voittaako Tapit kun pääsee karkuun kesäleiriltä? Onko koko planeetta leiri?
+Onko päästävä planeetan painovoimakentästä? 
